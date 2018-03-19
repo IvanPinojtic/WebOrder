@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOrder", "WebOrder\WebOrder.csproj", "{11EDA26A-B418-4910-B0BA-3664DEA89CC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOrder.DAL", "WebOrder.DAL\WebOrder.DAL.csproj", "{39973A56-E099-487E-8643-FEBFC0D198FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{11EDA26A-B418-4910-B0BA-3664DEA89CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11EDA26A-B418-4910-B0BA-3664DEA89CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11EDA26A-B418-4910-B0BA-3664DEA89CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39973A56-E099-487E-8643-FEBFC0D198FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39973A56-E099-487E-8643-FEBFC0D198FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39973A56-E099-487E-8643-FEBFC0D198FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39973A56-E099-487E-8643-FEBFC0D198FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
